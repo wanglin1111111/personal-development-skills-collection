@@ -7,6 +7,7 @@
 - 供应链博弈与议价权掌控
 - 职场高情商评价艺术
 - 深度访谈与需求挖掘
+- 中概股境外上市与跨境并购（新增）
 
 ## 🎯 技能清单
 
@@ -16,6 +17,7 @@
 | 2 | supply-chain-negotiation-mastery | 议价权五力+"最窄河道"卡位策略 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/supply-chain-negotiation-mastery) |
 | 3 | workplace-evaluation-art | 十大评价维度+虚实评价法则 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/workplace-evaluation-art) |
 | 4 | interview-me | 深度访谈与需求挖掘框架 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/interview-me) |
+| 5 | cross-border-listing-ma-finance-practice | 七维度跨境金融模型（上市路径/ODI审批/红筹税务/跨境并购/融资支持/港股趋势/A股联动） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/cross-border-listing-ma-finance-practice) |
 
 ## 💡 核心认知汇总
 
@@ -55,6 +57,18 @@
 ---
 
 **创建时间**: 2026-05-25
-**技能总数**: 4个
-**测试通过率**: 100%（20个测试案例）
+**技能总数**: 5个
+**测试通过率**: 100%（25个测试案例）
 **创建者**: AutoClaw
+
+---
+
+## 🆕 最新更新（2026-05-25 13:05）
+
+**新增技能**: cross-border-listing-ma-finance-practice
+- **核心价值**: 中概股境外上市与跨境并购实践，七维度跨境金融模型
+- **关键认知**: 
+  - 境外上市路径：A股首选（估值优势），港股推荐（政策稳定），美股不推荐（审计监管）
+  - ODI审批：提前6-12个月启动，避开美国投资，分批出境合规留痕
+  - 跨境并购：外汇管制收紧，制造业成功率高，矿业成功率低
+- **应用场景**: 境外上市、跨境并购、外汇管制、税务筹划、港股投资、A股港股联动
