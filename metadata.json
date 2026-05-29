@@ -1,0 +1,17 @@
+{
+  "name": "personal-development-skills-collection",
+  "version": "1.0.0",
+  "description": "Personal development and business skills - Unified Repository",
+  "author": "wanglin1111111",
+  "license": "MIT",
+  "skills_count": 6,
+  "skills": [
+    { "name": "extreme-goal-achievement", "category": "personal-development", "path": "skills/extreme-goal-achievement/" },
+    { "name": "supply-chain-negotiation-mastery", "category": "business", "path": "skills/supply-chain-negotiation-mastery/" },
+    { "name": "workplace-evaluation-art", "category": "personal-development", "path": "skills/workplace-evaluation-art/" },
+    { "name": "interview-me", "category": "business", "path": "skills/interview-me/" },
+    { "name": "cross-border-listing-ma-finance-practice", "category": "finance", "path": "skills/cross-border-listing-ma-finance-practice/" },
+    { "name": "cross-border-investment-financing-risk-control", "category": "finance", "path": "skills/cross-border-investment-financing-risk-control/" }
+  ],
+  "updated_at": "2026-05-29"
+}
