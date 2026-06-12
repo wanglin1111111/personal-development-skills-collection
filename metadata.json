@@ -1,17 +1,19 @@
 {
   "name": "personal-development-skills-collection",
   "version": "1.0.0",
-  "description": "Personal development and business skills - Unified Repository",
+  "description": "个人发展与商业技能集合 - 统一仓库（2/6技能本地包含）",
   "author": "wanglin1111111",
   "license": "MIT",
   "skills_count": 6,
+  "local_count": 2,
+  "unavailable": 4,
   "skills": [
-    { "name": "extreme-goal-achievement", "category": "personal-development", "path": "skills/extreme-goal-achievement/" },
-    { "name": "supply-chain-negotiation-mastery", "category": "business", "path": "skills/supply-chain-negotiation-mastery/" },
-    { "name": "workplace-evaluation-art", "category": "personal-development", "path": "skills/workplace-evaluation-art/" },
-    { "name": "interview-me", "category": "business", "path": "skills/interview-me/" },
-    { "name": "cross-border-listing-ma-finance-practice", "category": "finance", "path": "skills/cross-border-listing-ma-finance-practice/" },
-    { "name": "cross-border-investment-financing-risk-control", "category": "finance", "path": "skills/cross-border-investment-financing-risk-control/" }
+    { "name": "extreme-goal-achievement", "description": "极限目标实现方法论", "category": "personal-development", "available": false, "reason": "仓库已不可访问" },
+    { "name": "supply-chain-negotiation-mastery", "description": "供应链博弈与议价权掌控", "category": "business", "available": false, "reason": "仓库已不可访问" },
+    { "name": "workplace-evaluation-art", "description": "职场高情商评价艺术", "category": "personal-development", "available": true, "path": "skills/workplace-evaluation-art/" },
+    { "name": "interview-me", "description": "深度访谈与需求挖掘", "category": "business", "available": false, "reason": "仓库已不可访问" },
+    { "name": "cross-border-listing-ma-finance-practice", "description": "中概股境外上市与跨境并购", "category": "finance", "available": true, "path": "skills/cross-border-listing-ma-finance-practice/" },
+    { "name": "cross-border-investment-financing-risk-control", "description": "跨境投融资实践与风险控制", "category": "finance", "available": false, "reason": "仓库已不可访问" }
   ],
-  "updated_at": "2026-05-29"
+  "updated_at": "2026-06-12"
 }

@@ -1,25 +1,28 @@
 # 个人发展与商业技能集合统一仓库
 
+> ⚠️ **注意**: 部分外部仓库已不可访问（4/6）。本仓库已整合可访问的2个技能到本地。
+> 不可访问的仓库请检查是否已删除或设为私有。
+
 ## 📋 仓库概述
 
-本仓库整合了个人发展与商业相关的核心技能，包括：
-- 极限目标实现（雷殿生十年徒步中国方法论）
-- 供应链博弈与议价权掌控
-- 职场高情商评价艺术
-- 深度访谈与需求挖掘
-- 中概股境外上市与跨境并购
-- 跨境投融资实践与风险控制（新增）
+本仓库整合了个人发展与商业相关的核心技能。**本地包含 2/6 技能**，其余4个技能的外部仓库已不可访问。
+- ✅ 职场高情商评价艺术（本地包含）
+- ✅ 中概股境外上市与跨境并购（本地包含）
+- ⚠️ 极限目标实现（外部仓库不可访问）
+- ⚠️ 供应链博弈与议价权掌控（外部仓库不可访问）
+- ⚠️ 深度访谈与需求挖掘（外部仓库不可访问）
+- ⚠️ 跨境投融资实践与风险控制（外部仓库不可访问）
 
 ## 🎯 技能清单
 
 | 序号 | 技能名称 | 核心方法论 | 测试通过率 | GitHub链接 |
 |------|---------|-----------|-----------|-----------|
-| 1 | extreme-goal-achievement | 系统性准备+阶段化推进+风险前置管理 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/extreme-goal-achievement) |
-| 2 | supply-chain-negotiation-mastery | 议价权五力+"最窄河道"卡位策略 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/supply-chain-negotiation-mastery) |
-| 3 | workplace-evaluation-art | 十大评价维度+虚实评价法则 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/workplace-evaluation-art) |
-| 4 | interview-me | 深度访谈与需求挖掘框架 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/interview-me) |
-| 5 | cross-border-listing-ma-finance-practice | 七维度跨境金融模型（上市路径/ODI审批/红筹税务/跨境并购/融资支持/港股趋势/A股联动） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/cross-border-listing-ma-finance-practice) |
-| 6 | cross-border-investment-financing-risk-control | 七维度跨境投融资模型（新形势/出海共识/机遇挑战/投融资形式/风险陷阱/应对策略/人才培养） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/cross-border-investment-financing-risk-control) |
+| 1 | extreme-goal-achievement | 系统性准备+阶段化推进+风险前置管理 | 100%（5/5案例） | ⚠️ 仓库已不可访问 |
+| 2 | supply-chain-negotiation-mastery | 议价权五力+"最窄河道"卡位策略 | 100%（5/5案例） | ⚠️ 仓库已不可访问 |
+| 3 | workplace-evaluation-art | 十大评价维度+虚实评价法则 | 100%（5/5案例） | ✅ 本地包含 |
+| 4 | interview-me | 深度访谈与需求挖掘框架 | 100%（5/5案例） | ⚠️ 仓库已不可访问 |
+| 5 | cross-border-listing-ma-finance-practice | 七维度跨境金融模型（上市路径/ODI审批/红筹税务/跨境并购/融资支持/港股趋势/A股联动） | 100%（5/5案例） | ✅ 本地包含 |
+| 6 | cross-border-investment-financing-risk-control | 七维度跨境投融资模型（新形势/出海共识/机遇挑战/投融资形式/风险陷阱/应对策略/人才培养） | 100%（5/5案例） | ⚠️ 仓库已不可访问 |
 
 ## 💡 核心认知汇总
 
